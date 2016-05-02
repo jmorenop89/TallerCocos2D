@@ -1,0 +1,28 @@
+{
+  "ID": "aa512e97-3265-43f7-ac65-2addba3dcddf",
+  "Version": "3.10.0.0",
+  "Name": "PhysicalScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

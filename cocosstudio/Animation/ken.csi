@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="ken" Type="Plist" ID="78d97bd1-94de-41af-bdc9-58f6b8c11819" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Animation/Ken/ken_1.png" />
+      <FilePathData Path="Animation/Ken/ken_10.png" />
+      <FilePathData Path="Animation/Ken/ken_11.png" />
+      <FilePathData Path="Animation/Ken/ken_2.png" />
+      <FilePathData Path="Animation/Ken/ken_3.png" />
+      <FilePathData Path="Animation/Ken/ken_4.png" />
+      <FilePathData Path="Animation/Ken/ken_5.png" />
+      <FilePathData Path="Animation/Ken/ken_6.png" />
+      <FilePathData Path="Animation/Ken/ken_7.png" />
+      <FilePathData Path="Animation/Ken/ken_8.png" />
+      <FilePathData Path="Animation/Ken/ken_9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

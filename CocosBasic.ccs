@@ -1,0 +1,37 @@
+<Solution>
+  <PropertyGroup Name="CocosBasic" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="Animation.csd" Type="Scene" />
+        <Folder Name="Animation">
+          <Folder Name="Ken">
+            <Image Name="ken_1.png" />
+            <Image Name="ken_10.png" />
+            <Image Name="ken_11.png" />
+            <Image Name="ken_2.png" />
+            <Image Name="ken_3.png" />
+            <Image Name="ken_4.png" />
+            <Image Name="ken_5.png" />
+            <Image Name="ken_6.png" />
+            <Image Name="ken_7.png" />
+            <Image Name="ken_8.png" />
+            <Image Name="ken_9.png" />
+          </Folder>
+          <PlistInfo Name="ken.csi" Type="Plist" />
+          <Image Name="scene_ken.jpg" />
+        </Folder>
+        <Folder Name="StarWars">
+          <Image Name="intro.jpg" />
+        </Folder>
+        <Project Name="StarWars.csd" Type="Scene" />
+        <Folder Name="Physical">
+          <Image Name="pelota.png" />
+        </Folder>
+        <Project Name="PhysicalScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/Ken/ken_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{804,109},{105,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{105,114}</string>
+			</dict>
+			<key>Animation/Ken/ken_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{148,121},{129,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{129,114}</string>
+			</dict>
+			<key>Animation/Ken/ken_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,0},{117,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,112}</string>
+			</dict>
+			<key>Animation/Ken/ken_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{570,0},{117,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,116}</string>
+			</dict>
+			<key>Animation/Ken/ken_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{804,0},{117,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,109}</string>
+			</dict>
+			<key>Animation/Ken/ken_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{148,127}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{148,127}</string>
+			</dict>
+			<key>Animation/Ken/ken_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{291,0},{144,115}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,115}</string>
+			</dict>
+			<key>Animation/Ken/ken_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{148,0},{143,121}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,121}</string>
+			</dict>
+			<key>Animation/Ken/ken_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{291,115},{136,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,113}</string>
+			</dict>
+			<key>Animation/Ken/ken_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{435,0},{135,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{135,116}</string>
+			</dict>
+			<key>Animation/Ken/ken_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,127},{132,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,108}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ken.png</string>
+			<key>realTextureFileName</key>
+			<string>ken.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

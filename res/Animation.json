@@ -1,0 +1,77 @@
+{
+  "ID": "d5896f37-d327-46f6-91fc-4146ecf78276",
+  "Version": "3.10.0.0",
+  "Name": "Animation",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Animation/scene_ken.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 461.8683,
+              "Y": 323.5533
+            },
+            "Scale": {
+              "ScaleX": 0.8981,
+              "ScaleY": 0.8981
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4811,
+              "Y": 0.5056
+            },
+            "PreSize": {
+              "X": 1.3333,
+              "Y": 1.125
+            },
+            "LeftMargin": -178.1317,
+            "RightMargin": -141.8683,
+            "TopMargin": -43.5533,
+            "BottomMargin": -36.4467,
+            "Tag": 4,
+            "ActionTag": 1640790174,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "scene_ken_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Animation/scene_ken.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
